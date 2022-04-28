@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
+langcode: en
+uuid: d8be3ddb-a1a2-4966-82cf-3ff0d339f830
+name: 'Escuela de Manejo Don Luis'
+mail: admin@example.com
+slogan: 'Aprende, y aprende bien con nosotros.'
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en
